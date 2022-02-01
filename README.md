@@ -50,9 +50,12 @@ Here are some ideas to get you started:
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 https://aleen42.github.io/badges/src/after_effects.svg
 
+## 📈 GitHub Stats 
+[![Anurag’s github stats](https://github-readme-stats.vercel.app/api?username=JohnRosey)](https://github.com/JohnRosey)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JohnRosey&layout=compact)](https://github.com/JohnRosey)
 
-
+[![Visitors](https://visitor-badge.glitch.me/badge?page_id=JohnRosey.JohnRosey)](https://github.com/JohnRosey/)
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
