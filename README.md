@@ -50,7 +50,6 @@ Here are some ideas to get you started:
 ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
 ![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-https://aleen42.github.io/badges/src/after_effects.svg
 
 ## 📈 GitHub Stats 
 [![Anurag’s github stats](https://github-readme-stats.vercel.app/api?username=JohnRosey&show_icons=true&theme=radical)](https://github.com/JohnRosey)
