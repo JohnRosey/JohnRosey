@@ -51,11 +51,10 @@ Here are some ideas to get you started:
 https://aleen42.github.io/badges/src/after_effects.svg
 
 ## 📈 GitHub Stats 
-[![Anurag’s github stats](https://github-readme-stats.vercel.app/api?username=JohnRosey)](https://github.com/JohnRosey)
+[![Anurag’s github stats](https://github-readme-stats.vercel.app/api?username=JohnRosey&show_icons=true&theme=radical)](https://github.com/JohnRosey)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JohnRosey&layout=compact)](https://github.com/JohnRosey)
 
-[![Visitors](https://visitor-badge.glitch.me/badge?page_id=JohnRosey.JohnRosey)](https://github.com/JohnRosey/)
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
