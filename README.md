@@ -54,7 +54,7 @@ Here are some ideas to get you started:
 ## 📈 GitHub Stats 
 [![Anurag’s github stats](https://github-readme-stats.vercel.app/api?username=JohnRosey&show_icons=true&theme=radical)](https://github.com/JohnRosey)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JohnRosey&layout=compact&langs_count=12&&hide=python,javascript,css,html,less)](https://github.com/JohnRosey)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JohnRosey&layout=compact&langs_count=30&&hide=)](https://github.com/JohnRosey)
 
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
